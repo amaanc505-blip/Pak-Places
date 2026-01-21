@@ -1,0 +1,45 @@
+.header {
+    width: 100%;
+    height: 50px;
+    background-color: red;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   font-size: larger;
+   font-weight: bold;
+}
+body{
+    background-color: lightblue;
+}
+.home {
+    display: flex;
+    justify-content: space-evenly;
+    width: 40%;
+}
+h1{
+    color: black;
+    font-weight: bolder;
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+p{
+    font-size: 19px;
+    font-style: italic;
+    max-width: 80%;
+    margin: auto;
+}
+.image{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.section-1{
+    border-bottom: 1px solid;
+}
+.link {
+    color: white;
+    text-decoration: none;
+}
